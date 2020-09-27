@@ -1,0 +1,6 @@
+C:\Users\Lungelo\source\repos\FirstAngular_js\BusinesLogic\bin\Debug\BusinesLogic.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\BusinesLogic\bin\Debug\BusinesLogic.pdb
+C:\Users\Lungelo\source\repos\FirstAngular_js\BusinesLogic\obj\Debug\BusinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo\source\repos\FirstAngular_js\BusinesLogic\obj\Debug\BusinesLogic.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\BusinesLogic\obj\Debug\BusinesLogic.pdb
+C:\Users\Lungelo\source\repos\FirstAngular_js\BusinesLogic\obj\Debug\BusinesLogic.csprojAssemblyReference.cache

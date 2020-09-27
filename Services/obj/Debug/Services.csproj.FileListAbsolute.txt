@@ -1,0 +1,16 @@
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Services.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Services.pdb
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Models.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Repository.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\EntityFramework.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Dapper.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Models.pdb
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Models.dll.config
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Repository.pdb
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\EntityFramework.xml
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\bin\Debug\Dapper.xml
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\obj\Debug\Services.dll
+C:\Users\Lungelo\source\repos\FirstAngular_js\Services\obj\Debug\Services.pdb
